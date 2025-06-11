@@ -12,7 +12,7 @@ This project is a professional **Invoice Generator** built with PHP, HTML, CSS, 
 - 📄 Professionally formatted PDF output using FPDF
 - 📁 Clean and organized file structure
 - 💬 Error handling and form validation
-- 📧 Email-ready PDF export (optional extension)
+
 
 ## 🚀 Technologies Used
 
