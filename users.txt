@@ -1,0 +1,6 @@
+Akansha@gmail.com,1234
+Akansha@gmail.com,1234
+Akansha@gmail.com:$2y$10$bQeeh5AqrC2haXjOEDPhWeI6JSX.XMivGBnE/GhAYEH/eJpb3BrOS
+Akansha|$2y$10$HNmS1jSsE3eiwOh9o.hRbOpKsunMmfk1fqmlNCquN8jQNxGS04Y9O|Akansha's Business|Akansha's Business, Amravati, Maharashtra|9876543210|Akansha@gmail.com|logo_68414e73e612f.png
+Akansha1|$2y$10$JhNCRRLTkFXoFDO0ETKpneJGBjdAChdv9OSiGsOYggurcwXcje2oi|Akansha's Business|Akansha's Business, Amravati , Maharashtra|9876543210|Akansha@gmail.com|logo_68414f2263f55.png
+Ankita|$2y$10$vc2Q40Xki6CZ0eQZlou2qe3PU1x3ox7h9x8S2.zawo5Ou8BUBjLQK|Ankita's Business|Ankita's Business, Amravati, Maharashtra|9699778090|ankita@gmail.com|logo_684173c8d2764.jpeg
